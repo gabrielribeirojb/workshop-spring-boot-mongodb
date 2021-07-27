@@ -1,4 +1,4 @@
-# Web Services com Spring Boot e JPA / Hibernate
+#  API Restful com Spring Boot e banco MongoDB
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielribeirojb/workshop-spring-boot-mongodb/blob/main/LICENSE) 
 
 # Sobre o projeto
